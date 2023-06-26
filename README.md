@@ -22,3 +22,7 @@ Hierzu wurde Electron verwendet.
   - z.B. HTML Webseite Single Page (Schwere 3), CSS mit Animation (Schwere 5), JavaScript (Schwere 2)
   - Mit diesen Daten soll dann ein Projekt vorher eingeschätzt werden können, indem die verschiedenen Kategorien und die jeweiligen Schwierigkeitsgrade mit den im neuen Projekt angegebenen Parametern abgeglichen werden und so eine Vorhersage über die mögliche Dauer des neuen Projekts getroffen wird.
 - Umstellung von Electron zum Framework Flutter
+
+
+
+Bitte gib mir Feedback hier:.[Link zum Google Formular](https://forms.gle/P7TDAXn6yeRLbDRt5)
