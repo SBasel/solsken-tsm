@@ -25,4 +25,4 @@ Hierzu wurde Electron verwendet.
 
 
 
-Bitte gib mir Feedback hier:.[Link zum Google Formular](https://forms.gle/P7TDAXn6yeRLbDRt5)
+Bitte gib mir Feedback hier:[Link zum Google Formular](https://forms.gle/P7TDAXn6yeRLbDRt5)
